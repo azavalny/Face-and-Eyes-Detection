@@ -4,6 +4,7 @@ Using OpenCV, I created a reusable face and eyes detector that displays a box ar
 
 ## Features:
 
-* Detects and Displays the face with a rectangle and eyes with circles on a GUI
+* Detects and Displays the face with a rectangle and eyes with circles on an external GUI
 * Documented and easy to understand 
 * Clear Organization and reputability
+* **Resuability is emphasized through Object-Oriented Design**
